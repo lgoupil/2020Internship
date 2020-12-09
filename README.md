@@ -6,7 +6,7 @@ A collection of the work I have done in my 2020 Internship with Laurence Perreau
 ## Goal
 My final goal was to be able to produce realistic images of galaxies using state-of-the art generation networks, namely VAEs or GANs. The overall aim was to learn Machine Learning as I was somewhat new to the field. After studying by myself online on the basics, I undertook several steps in my project to convert my theoretical knowledge into practical applications.
 
-### I - Building and training a basic CNN for iage classification
+### I - Building and training a basic CNN for image classification
 This first part enabled me to be familiar with Tensorflow and more specifically the Keras API. This first problem is a very common starting ground for learning since it is fairly easy and accessible.
 
 ### II - Variational Auto-Encoder
